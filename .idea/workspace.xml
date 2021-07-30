@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8564c4f9-42c8-4ac3-ad5a-3092e443fe60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/META-INF/services/io.micronaut.core.beans.BeanIntrospectionReference" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/META-INF/services/io.micronaut.inject.BeanDefinitionReference" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/core/service/$ToyServiceImplDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/core/service/$ToyServiceImplDefinitionClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/controller/$$ToyControllerDefinition$InterceptedDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/controller/$$ToyControllerDefinition$InterceptedDefinitionClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/controller/$ToyControllerDefinition$$exec1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/controller/$ToyControllerDefinition$Intercepted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/controller/$ToyControllerDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/controller/$ToyControllerDefinitionClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/dto/$ToyDto$Introspection$$0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/dto/$ToyDto$Introspection$$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/dto/$ToyDto$Introspection$$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/dto/$ToyDto$Introspection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/entrypoint/dto/$ToyDto$IntrospectionRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/infrastructure/broker/$ToyClientNats$InterceptedDefinition$$exec1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/infrastructure/broker/$ToyClientNats$InterceptedDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/infrastructure/broker/$ToyClientNats$InterceptedDefinitionClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/kapt3/classes/main/br/com/zup/infrastructure/broker/ToyClientNats$Intercepted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/core/mapper/ToyConverter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/core/model/Toy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/core/port/ToyInfrastructurePort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/core/port/ToyServicePort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/core/service/ToyServiceImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/entrypoint/controller/ToyController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/entrypoint/dto/ToyDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/infrastructure/broker/ToyClientNats.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/infrastructure/enum/TakeAction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/infrastructure/model/ToyEvent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/zup/infrastructure/service/ToyServiceImpl.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1w0bf0aRW9JJd62It4WG51CKJ4b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="br.com.zup.infrastructure.model" />
+      <recent name="br.com.zup.infrastructure.enum" />
+      <recent name="br.com.zup.core.port" />
+      <recent name="br.com.zup.core.model" />
+      <recent name="br.com.zup.core.mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.zup.ApplicationKt" />
+      <module name="toyPub.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8564c4f9-42c8-4ac3-ad5a-3092e443fe60" name="Default Changelist" comment="" />
+      <created>1627598553413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627598553413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
