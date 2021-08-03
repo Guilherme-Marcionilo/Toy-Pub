@@ -2,4 +2,4 @@ br.com.zup.infrastructure.broker.$ToyClientNats$InterceptedDefinitionClass
 br.com.zup.entrypoint.controller.$ToyControllerDefinitionClass
 br.com.zup.entrypoint.controller.$$ToyControllerDefinition$InterceptedDefinitionClass
 br.com.zup.core.service.$ToyServiceImplDefinitionClass
-br.com.zup.infrastructure.service.$ToyServiceImplDefinitionClass
+br.com.zup.infrastructure.service.$ToyInfraServiceImplDefinitionClass
