@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.zup.ToyServicePortTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-09T21:16:47" hostname="DESKTOP-6B7DULF" time="0.1">
+  <properties/>
+  <testcase name="should Unit - CREATE" classname="br.com.zup.ToyServicePortTest" time="0.083"/>
+  <testcase name="should Unit - DELETE" classname="br.com.zup.ToyServicePortTest" time="0.005"/>
+  <testcase name="should Unit - UPDATE" classname="br.com.zup.ToyServicePortTest" time="0.007"/>
+  <system-out><![CDATA[?[36m18:16:46.853?[0;39m ?[1;30m[kotest-engine-0 @coroutine#3]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.context.env.DefaultEnvironment?[0;39m - Established active environments: [test]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
